@@ -6,5 +6,5 @@
   <img style="width: 420px; height: 165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleexSolis&layout=compact&theme=react&langs_count=10" />
 </a>
 <a href="https://wakatime.com/@AleexSolis">
-  <img style="width: 420px; height: 208px;" src="https://github-readme-stats.vercel.app/api/wakatime?username=AleexSolis&theme=react&layout=compact&v=2" />
+  <img style="width: 420px; height: 375px;" src="https://github-readme-stats.vercel.app/api/wakatime?username=AleexSolis&theme=react&layout=compact&v=2" />
 </a>
