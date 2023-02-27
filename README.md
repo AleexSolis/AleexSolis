@@ -1,4 +1,4 @@
-# 💫 About Me [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aleexsolis) :
+# 💫 About Me [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aleexsolis):
 🔭 I’m currently working on personal development and professional growth.<br>🌱 I’m currently learning about software architecture and process automation.<br>💬 I really enjoy the challenges and the things I can learn from them.
 
 # 💻 Tech Stack:
